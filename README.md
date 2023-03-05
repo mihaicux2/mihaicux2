@@ -1,9 +1,9 @@
 # Hi, I'm Mihail 👋 👨‍💻
 
 
-I'm a software engineer from [Romania](https://en.wikipedia.org/wiki/Romania) with more than 10 years of overall software development experience. I've worked extensively with PHP, but lately all my work is based on NodeJS.
+I'm a software engineer from [Romania](https://en.wikipedia.org/wiki/Romania) with more than 13 years of overall software development experience. I've worked extensively with PHP, but lately all my work is based on NodeJS.
 
-Over the last 3 or 4 years, all my projects required NodeJS and were mostly based on AWS infrastructure: Lambda Functions, S3 storage, SQS, SNS, etc.
+Over the last 6 years, all my projects required NodeJS and were mostly based on cloud infrastructure (AWS and GCP): Lambda Functions, S3 storage, SQS, SNS, etc.
 
 I'm passionate about NodeJS, JAVA and API services, learning Python (especially for its extensive AI/ML data libraries), playing with embedded systems (Arduino, Raspberry PI, ESP8266/ESP32), home automation, Android and 3D printing.
 
