@@ -7,7 +7,7 @@ Over the last 6 years, all my projects required NodeJS and were mostly based on 
 
 I'm passionate about NodeJS, JAVA and API services, learning Python (especially for its extensive AI/ML data libraries), playing with embedded systems (Arduino, Raspberry PI, ESP8266/ESP32), home automation, Android and 3D printing.
 
-I have a good knowledge of algorithms and data structures, I'm passionate about all kinds of code and database optimizations and I realy like to tackle difficult projects.
+I have good knowledge of algorithms and data structures, I'm passionate about all kinds of code and database optimizations and I really like to tackle difficult projects.
 
 Also, I'm a fast and avid learner, a good team player, intuitive, pragmatic and problem-solving oriented.
 
